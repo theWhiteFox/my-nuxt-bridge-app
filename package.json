@@ -3,14 +3,12 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "scripts": {
-      "dev": "nuxt",
-      "dev": "nuxi dev",
-      "build": "nuxt build",
-      "build": "nuxi build",
-      "start": "nuxt start",
-      "start": "nuxi preview"
-    }
+    "dev": "nuxt",
+    "dev": "nuxi dev",
+    "build": "nuxt build",
+    "build": "nuxi build",
+    "start": "nuxt start",
+    "start": "nuxi preview"
   },
   "dependencies": {
     "core-js": "^3.19.3",
